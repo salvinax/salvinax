@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - I'm a third year computer engineering student at Queen's University 👑
 - I like taking care of my plants 🌱, playing the bass 🎸, hiking 🌲 and oversharing in my project's readMe 👍
 - I'm currently working on **ScreenSmart**, a browser app that monitors your posture and helps you avoid digital eye strain! 🖥️👁️
-- I mostly work with hardware and low-level programming languages but I have a keen interest in full web development and machine learning!
